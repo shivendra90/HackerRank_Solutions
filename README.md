@@ -7,19 +7,19 @@
 
 Sections:
 
-1. [Python](## Python)
+1. [Python](#Python)
 
 Primary language used - Python 3.
 
 Databases coded in MySQl.
 
-## Python
+# Python
 
 Index |                                                 Title                                                   | Solution
 :-----|:-------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
 |1.   | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)                      | [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/alphabet_rangoli.py)   |
 |2.   | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)                    | [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/door_mat.py)
 
-**This is work in progress. I will keep adding solutions as I finish them.**
+**This is work in progress. I will keep adding solutions finished as well as unfinished solutions.**
 
 TODO: Add existing solutions to readme.
