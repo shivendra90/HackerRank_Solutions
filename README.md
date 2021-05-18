@@ -1,6 +1,6 @@
-<p align="left">
+<p align="center">
     <a href = "https://hackerrank.com/shivendra_sharm1">
-        <img height=90 src="https://blog.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png">
+        <img height=200 width=200  src="https://friconix.com/jpg/fi-hnsuxl-hackerrank.jpg">
     </a>
     <br> My solutions to HackerRank problems
 </p>
