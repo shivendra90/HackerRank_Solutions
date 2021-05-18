@@ -1,14 +1,14 @@
-<p align="center">
+<p align="left">
     <a href = "https://hackerrank.com/shivendra_sharm1">
         <img height=90 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg">
     </a>
     <br> My solutions to HackerRank problems
 </p>
 
-[]()  # Python
-[] () # SQL
-[]()  # Problem solving
-[]()  # 10 Days of Statistics
+1. []()  # Python
+2. [] () # SQL
+3. []()  # Problem solving
+4. []()  # 10 Days of Statistics
 
 Primary language used - Python 3.
 
