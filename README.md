@@ -1,6 +1,6 @@
 <p align="left">
     <a href = "https://hackerrank.com/shivendra_sharm1">
-        <img height=90 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg">
+        <img height=90 src="https://blog.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png">
     </a>
     <br> My solutions to HackerRank problems
 </p>
