@@ -8,7 +8,7 @@
 Sections:
 
 - [Python](#python)
-- [Databases](#sql)
+- [Databases](#databases)
 
 Primary language used - Python 3.
 
