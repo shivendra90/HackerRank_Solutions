@@ -14,4 +14,4 @@ if __name__ == '__main__':
 
     for student, score in sorted(arr):
         if score==mid_score:
-            print(student)    
+            print(student)
