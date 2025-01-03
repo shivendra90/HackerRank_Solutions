@@ -8,6 +8,7 @@
 Sections:
 
 - [Python](#python)
+- [Databases](#databases)
 
 Primary language used - Python 3.
 
@@ -15,11 +16,37 @@ Databases coded in MySQl.
 
 ## Python
 
-Index |                                                 Title                                                   | Solution
-:-----|:-------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
-|1.   | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)                      | [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/alphabet_rangoli.py)   |
-|2.   | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)                    | [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/door_mat.py)
+Index |                                                 Title                                                | Solution
+:-------|:--------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
+|1.     | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)                 | [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/alphabet_rangoli.py)   |
+|2.     | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)               | [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/door_mat.py)
+
+
+## Databases
+Index |                                                 Title                                                   |Solution
+:-------|:-----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
+|1.     | [Select All](https://www.hackerrank.com/challenges/select-all-sql)                                    | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Select%20All.sql)   |
+|2.     | [Select by ID](https://www.hackerrank.com/challenges/select-by-id)                                    | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Select%20by%20ID.sql) |
+|3.     | [Revising the Select Query 1](https://www.hackerrank.com/challenges/revising-the-select-query)        | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Revising%20the%20Select%20Query%201.sql) 	|
+|4.     | [Revising the Select Quwry 2](https://www.hackerrank.com/challenges/revising-the-select-query-2)      | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Revising%20the%20Select%20Query%20II.sql)  	|
+|5.     | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes)       | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Japanese%20Cities'%20Attributes.sql)  	|
+|6.     | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name)                  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Japanese%20Cities'%20Names.sql)  	|
+|7.     | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%201.sql)  	|
+|8.     | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%203.sql)  	|
+|9.     | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%204.sql)  	|
+|10.    | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%205.sql)  	|
+|11.    | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%206.sql)  	|
+|12.    | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%207.sql)  	|
+|13.    | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%208.sql)  	|
+|14.    | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%209.sql)  	|
+|15.    | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10)| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%2010.sql)  	|
+|16.    | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11)| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%2011.sql)  	|
+|17.    | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12)| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%2012.sql) 	|
+|18.	| [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)						| [MySQL]	|
+|19.	| [Employee Names](https://www.hackerrank.com/challenges/name-of-employees)								| [MySQL]	|
+|20.	| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)						| [MySQL]	|
+|21.	| [Triangle Type](https://www.hackerrank.com/challenges/what-type-of-triangle)							| [MySQL]	|
+|22.	| [The PADS](https://www.hackerrank.com/challenges/the-pads)											| [MySQL]	|
 
 **This is work in progress. I will keep adding finished solutions. For the meantime, my profile can be visited by clicking on the header logo.**
 
-TODO: Add existing solutions to readme.
