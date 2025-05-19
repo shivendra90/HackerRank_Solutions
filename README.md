@@ -54,13 +54,9 @@ Index |                                                 Title                   
 Index |                                                 Title                                                   |Solution
 :-------|:-----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
 |1.     | [Solve me First](https://www.hackerrank.com/challenges/solve-me-first?isFullScreen=true)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/Solve_me_first.py)  |
-
 |2.     | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles?isFullScreen=true)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/Birthday%20Cake%20Candles.py)   |
-
 |3.     | [Solve me First](https://www.hackerrank.com/challenges/solve-me-first?isFullScreen=true)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/Solve_me_first.py)  |
-
 |4.     | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets?isFullScreen=true)| [Python]()  |
-
 |5.     | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum?isFullScreen=true)| [Python]()|
 
 ** This readme will keep expanding. For all solutions, click on the HR logo. **
