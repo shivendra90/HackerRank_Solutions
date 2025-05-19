@@ -9,17 +9,18 @@ Sections:
 
 - [Python](#python)
 - [Databases](#databases)
+- [Problem Solving](#problem-solving)
 
 Primary language used - Python 3.
 
-Databases coded in MySQl.
+DB queries coded in MySQl.
 
 ## Python
 
 Index |                                                 Title                                                | Solution
 :-------|:--------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
 |1.     | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)                 | [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/alphabet_rangoli.py)   |
-|2.     | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)               | [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/door_mat.py)
+|2.     | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)               | [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/door_mat.py)           |
 
 
 ## Databases
@@ -48,5 +49,18 @@ Index |                                                 Title                   
 |21.	| [Triangle Type](https://www.hackerrank.com/challenges/what-type-of-triangle)							| [MySQL]	|
 |22.	| [The PADS](https://www.hackerrank.com/challenges/the-pads)											| [MySQL]	|
 
-**This is work in progress. I will keep adding finished solutions. For the meantime, my profile can be visited by clicking on the header logo.**
 
+## Problem Solving
+Index |                                                 Title                                                   |Solution
+:-------|:-----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
+|1.     | [Solve me First](https://www.hackerrank.com/challenges/solve-me-first?isFullScreen=true)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/Solve_me_first.py)  |
+
+|2.     | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles?isFullScreen=true)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/Birthday%20Cake%20Candles.py)   |
+
+|3.     | [Solve me First](https://www.hackerrank.com/challenges/solve-me-first?isFullScreen=true)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/Solve_me_first.py)  |
+
+|4.     | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets?isFullScreen=true)| [Python]()  |
+
+|5.     | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum?isFullScreen=true)| [Python]()|
+
+** This readme will keep expanding. For all solutions, click on the HR logo. **
