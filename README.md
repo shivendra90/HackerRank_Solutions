@@ -29,7 +29,7 @@ Index |                                                 Title                   
 |1.     | [Select All](https://www.hackerrank.com/challenges/select-all-sql)                                    | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Select%20All.sql)   |
 |2.     | [Select by ID](https://www.hackerrank.com/challenges/select-by-id)                                    | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Select%20by%20ID.sql) |
 |3.     | [Revising the Select Query 1](https://www.hackerrank.com/challenges/revising-the-select-query)        | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Revising%20the%20Select%20Query%201.sql) 	|
-|4.     | [Revising the Select Quwry 2](https://www.hackerrank.com/challenges/revising-the-select-query-2)      | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Revising%20the%20Select%20Query%20II.sql)  	|
+|4.     | [Revising the Select Query 2](https://www.hackerrank.com/challenges/revising-the-select-query-2)      | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Revising%20the%20Select%20Query%20II.sql)  	|
 |5.     | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes)       | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Japanese%20Cities'%20Attributes.sql)  	|
 |6.     | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name)                  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Japanese%20Cities'%20Names.sql)  	|
 |7.     | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%201.sql)  	|
@@ -43,11 +43,11 @@ Index |                                                 Title                   
 |15.    | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10)| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%2010.sql)  	|
 |16.    | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11)| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%2011.sql)  	|
 |17.    | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12)| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%2012.sql) 	|
-|18.	| [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)						| [MySQL]	|
-|19.	| [Employee Names](https://www.hackerrank.com/challenges/name-of-employees)								| [MySQL]	|
-|20.	| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)						| [MySQL]	|
-|21.	| [Triangle Type](https://www.hackerrank.com/challenges/what-type-of-triangle)							| [MySQL]	|
-|22.	| [The PADS](https://www.hackerrank.com/challenges/the-pads)											| [MySQL]	|
+|18.	| [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)						| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Higher%20Than%2075%20Marks.sql)	|
+|19.	| [Employee Names](https://www.hackerrank.com/challenges/name-of-employees)								| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Employee%20Names.sql)	|
+|20.	| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)						| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Employee%20Salaries.sql)	|
+|21.	| [Triangle Type](https://www.hackerrank.com/challenges/what-type-of-triangle)							| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Type%20of%20Triangle.sql)	|
+|22.	| [The PADS](https://www.hackerrank.com/challenges/the-pads)											| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/The%20PADS.sql)	|
 
 
 ## Problem Solving
@@ -56,7 +56,7 @@ Index |                                                 Title                   
 |1.     | [Solve me First](https://www.hackerrank.com/challenges/solve-me-first?isFullScreen=true)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/Solve_me_first.py)  |
 |2.     | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles?isFullScreen=true)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/Birthday%20Cake%20Candles.py)   |
 |3.     | [Solve me First](https://www.hackerrank.com/challenges/solve-me-first?isFullScreen=true)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/Solve_me_first.py)  |
-|4.     | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets?isFullScreen=true)| [Python]()  |
-|5.     | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum?isFullScreen=true)| [Python]()|
+|4.     | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets?isFullScreen=true)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/between_two_sets.py)  |
+|5.     | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum?isFullScreen=true)| [Python]()  |
 
 ** This readme will keep expanding. For all solutions, click on the HR logo. **
