@@ -43,11 +43,12 @@ Index |                                                 Title                   
 |15.    | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10)| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%2010.sql)  	|
 |16.    | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11)| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%2011.sql)  	|
 |17.    | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12)| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%2012.sql) 	|
-|18.	| [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)						| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Higher%20Than%2075%20Marks.sql)	|
-|19.	| [Employee Names](https://www.hackerrank.com/challenges/name-of-employees)								| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Employee%20Names.sql)	|
-|20.	| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)						| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Employee%20Salaries.sql)	|
-|21.	| [Triangle Type](https://www.hackerrank.com/challenges/what-type-of-triangle)							| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Type%20of%20Triangle.sql)	|
-|22.	| [The PADS](https://www.hackerrank.com/challenges/the-pads)											| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/The%20PADS.sql)	|
+|18.	| [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Higher%20Than%2075%20Marks.sql)	|
+|19.	| [Employee Names](https://www.hackerrank.com/challenges/name-of-employees)			| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Employee%20Names.sql)	|
+|20.	| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)    | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Employee%20Salaries.sql)	|
+|21.	| [Triangle Type](https://www.hackerrank.com/challenges/what-type-of-triangle)		| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Type%20of%20Triangle.sql)	|
+|22.	| [The PADS](https://www.hackerrank.com/challenges/the-pads)						| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/The%20PADS.sql)	|
+|23.    | [African Cities](https://www.hackerrank.com/challenges/african-cities)            | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/african_cities.sql) |
 
 
 ## Problem Solving
