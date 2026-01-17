@@ -8,16 +8,6 @@ B = [input(i).strip() for i in range(m)]
 result = defaultdict(list)
 
 for char in B:
-    inds = []
-    for i, check in enumerate(A):
-        if char in check:
-            inds.append(i+1)
-            continue
-    result[char].extend(inds)
+    inds = [index+1 if char == c in B else -1 for index, c in enumerate(A)]
+    print(*inds)
 
-for k,v in result.items():
-    if not v:
-        result.update({k: [-1]})
-
-for values in result.values():
-    print(*values)

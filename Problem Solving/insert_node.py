@@ -1,7 +1,5 @@
 #!/bin/python3
 
-import os
-
 class SinglyLinkedListNode:
     def __init__(self, node_data):
         self.data = node_data
@@ -11,14 +9,10 @@ class SinglyLinkedList:
     def __init__(self):
         self.head = None
 
-def print_singly_linked_list(node, sep, fptr):
+def print_singly_linked_list(node):
     while node:
-        fptr.write(str(node.data))
-
+        print(node.data)
         node = node.next
-
-        if node:
-            fptr.write(sep)
 
 # Complete the insertNodeAtTail function below.
 
@@ -31,20 +25,24 @@ def print_singly_linked_list(node, sep, fptr):
 #
 #
 def insertNodeAtTail(head, data):
-    new_node = SinglyLinkedListNode
+    new_node = SinglyLinkedListNode(data)
     if head is None:
         return new_node
     else:
-        #current = head
-        while head.next is not None:
-            head = head.next
+        current = head
+        while current.next is not None:
+            current = current.next
         
-        head.next = new_node
+        current.next = new_node
         return head
 
+llist_count = int(input())
 
-n1 = SinglyLinkedListNode(10)
-n2 = SinglyLinkedListNode(24)
-l1 = SinglyLinkedList()
+llist = SinglyLinkedList()
 
-print(insertNodeAtTail(n1, l1))
+for i in range(llist_count):
+    llist_item = int(input())
+    llist_head = insertNodeAtTail(llist.head, llist_item)
+    llist.head = llist_head
+
+    print_singly_linked_list(llist.head)
