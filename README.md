@@ -19,8 +19,10 @@ DB queries coded in MySQl.
 
 Index |                                                 Title                                                | Solution
 :-------|:--------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
-|1.     | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)                 | [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/alphabet_rangoli.py)   |
-|2.     | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)               | [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/door_mat.py)           |
+|1.     | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)                 | [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/alphabet_rangoli.py)|
+|2.     | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)               | [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/door_mat.py)|
+|3.     | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem?isFullScreen=true)|  [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/defaultDict.py)|
+
 
 
 ## Databases
@@ -58,7 +60,8 @@ Index |                                                 Title                   
 |2.     | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles?isFullScreen=true)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/Birthday%20Cake%20Candles.py)   |
 |3.     | [Solve me First](https://www.hackerrank.com/challenges/solve-me-first?isFullScreen=true)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/Solve_me_first.py)  |
 |4.     | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets?isFullScreen=true)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/between_two_sets.py)  |
-|5.     | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum?isFullScreen=true)| [Python]()  |
+|5.     | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum?isFullScreen=true)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/simple_array_sums.py)  |
 |6.     | [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem?isFullScreen=false)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/insert_node.py)  |
+|7.     | [Insert Node at the Head of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem?isFullScreen=true)|  [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/insert_node_at_head.py) |
 
 ** This readme will keep expanding. For all solutions, click on the HR logo. **
