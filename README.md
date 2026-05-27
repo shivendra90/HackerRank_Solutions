@@ -63,5 +63,5 @@ Index |                                                 Title                   
 |5.     | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum?isFullScreen=true)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/simple_array_sums.py)  |
 |6.     | [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem?isFullScreen=false)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/insert_node.py)  |
 |7.     | [Insert Node at the Head of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem?isFullScreen=true)|  [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/insert_node_at_head.py) |
-
+|8.     | [Insert Node at a Specific Position of a Linked List]()
 **This readme will keep expanding. For all solutions, click on the HR logo.**
