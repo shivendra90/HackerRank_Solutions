@@ -22,6 +22,7 @@ Index |                                                 Title                   
 |1.     | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)                 | [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/alphabet_rangoli.py)|
 |2.     | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)               | [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/door_mat.py)|
 |3.     | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem?isFullScreen=true)|  [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/defaultDict.py)|
+|4.     | [Named Tuples]()
 
 
 
@@ -51,6 +52,7 @@ Index |                                                 Title                   
 |21.	| [Triangle Type](https://www.hackerrank.com/challenges/what-type-of-triangle)		| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Type%20of%20Triangle.sql)	|
 |22.	| [The PADS](https://www.hackerrank.com/challenges/the-pads)						| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/The%20PADS.sql)	|
 |23.    | [African Cities](https://www.hackerrank.com/challenges/african-cities)            | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/african_cities.sql) |
+|24.    | [Average Populations](https://www.hackerrank.com/challenges/average-population-of-each-continent)        | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/4a3d33db880c33eda927fcd8aee9e8c71592785e/SQL/avg_population.sql)  |
 
 
 ## Problem Solving
