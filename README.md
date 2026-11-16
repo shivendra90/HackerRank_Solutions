@@ -22,7 +22,7 @@ Index |                                                 Title                   
 |1.     | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)                 | [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/alphabet_rangoli.py)|
 |2.     | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)               | [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/door_mat.py)|
 |3.     | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem?isFullScreen=true)|  [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/defaultDict.py)|
-|4.     | [Named Tuples]()
+|4.     | [Named Tuples](https://www.hackerrank.com/challenges/py-collections-namedtuple)|  [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/collections_namedTuple.py) |
 
 
 
@@ -66,4 +66,6 @@ Index |                                                 Title                   
 |6.     | [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem?isFullScreen=false)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/insert_node.py)  |
 |7.     | [Insert Node at the Head of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem?isFullScreen=true)|  [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/insert_node_at_head.py) |
 |8.     | [Insert Node at a Specific Position of a Linked List](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/insert_node_at_pos.py)| [Python](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?isFullScreen=true) |
+|9.     | [Breaking Best and Worst Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/breaking_records.py) |
+
 **This readme will keep expanding. For all solutions, click on the HR logo.**
