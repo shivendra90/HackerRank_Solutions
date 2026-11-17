@@ -24,38 +24,37 @@ Index |                                                 Title                   
 |3.     | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem?isFullScreen=true)|  [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/defaultDict.py)|
 |4.     | [Named Tuples](https://www.hackerrank.com/challenges/py-collections-namedtuple)|  [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Python/collections_namedTuple.py) |
 
-
-
 ## Databases
+
 Index |                                                 Title                                                   |Solution
 :-------|:-----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
 |1.     | [Select All](https://www.hackerrank.com/challenges/select-all-sql)                                    | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Select%20All.sql)   |
 |2.     | [Select by ID](https://www.hackerrank.com/challenges/select-by-id)                                    | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Select%20by%20ID.sql) |
-|3.     | [Revising the Select Query 1](https://www.hackerrank.com/challenges/revising-the-select-query)        | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Revising%20the%20Select%20Query%201.sql) 	|
-|4.     | [Revising the Select Query 2](https://www.hackerrank.com/challenges/revising-the-select-query-2)      | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Revising%20the%20Select%20Query%20II.sql)  	|
-|5.     | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes)       | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Japanese%20Cities'%20Attributes.sql)  	|
-|6.     | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name)                  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Japanese%20Cities'%20Names.sql)  	|
-|7.     | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%201.sql)  	|
-|8.     | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%203.sql)  	|
-|9.     | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%204.sql)  	|
-|10.    | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%205.sql)  	|
-|11.    | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%206.sql)  	|
-|12.    | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%207.sql)  	|
-|13.    | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%208.sql)  	|
-|14.    | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%209.sql)  	|
-|15.    | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10)| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%2010.sql)  	|
-|16.    | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11)| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%2011.sql)  	|
-|17.    | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12)| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%2012.sql) 	|
-|18.	| [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Higher%20Than%2075%20Marks.sql)	|
-|19.	| [Employee Names](https://www.hackerrank.com/challenges/name-of-employees)			| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Employee%20Names.sql)	|
-|20.	| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)    | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Employee%20Salaries.sql)	|
-|21.	| [Triangle Type](https://www.hackerrank.com/challenges/what-type-of-triangle)		| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Type%20of%20Triangle.sql)	|
-|22.	| [The PADS](https://www.hackerrank.com/challenges/the-pads)						| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/The%20PADS.sql)	|
+|3.     | [Revising the Select Query 1](https://www.hackerrank.com/challenges/revising-the-select-query)        | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Revising%20the%20Select%20Query%201.sql)  |
+|4.     | [Revising the Select Query 2](https://www.hackerrank.com/challenges/revising-the-select-query-2)      | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Revising%20the%20Select%20Query%20II.sql)   |
+|5.     | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes)       | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Japanese%20Cities'%20Attributes.sql)   |
+|6.     | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name)                  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Japanese%20Cities'%20Names.sql)   |
+|7.     | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%201.sql)   |
+|8.     | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%203.sql)   |
+|9.     | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%204.sql)   |
+|10.    | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%205.sql)   |
+|11.    | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%206.sql)   |
+|12.    | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%207.sql)   |
+|13.    | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%208.sql)   |
+|14.    | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%209.sql)   |
+|15.    | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10)| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%2010.sql)   |
+|16.    | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11)| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%2011.sql)   |
+|17.    | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12)| [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Weather%20Observation%20Station%2012.sql)  |
+|18. | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Higher%20Than%2075%20Marks.sql) |
+|19. | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees)   | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Employee%20Names.sql) |
+|20. | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)    | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Employee%20Salaries.sql) |
+|21. | [Triangle Type](https://www.hackerrank.com/challenges/what-type-of-triangle)  | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/Type%20of%20Triangle.sql) |
+|22. | [The PADS](https://www.hackerrank.com/challenges/the-pads)      | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/The%20PADS.sql) |
 |23.    | [African Cities](https://www.hackerrank.com/challenges/african-cities)            | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/main/SQL/african_cities.sql) |
 |24.    | [Average Populations](https://www.hackerrank.com/challenges/average-population-of-each-continent)        | [MySQL](https://github.com/shivendra90/HackerRank_Solutions/blob/4a3d33db880c33eda927fcd8aee9e8c71592785e/SQL/avg_population.sql)  |
 
-
 ## Problem Solving
+
 Index |                                                 Title                                                   |Solution
 :-------|:-----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
 |1.     | [Solve me First](https://www.hackerrank.com/challenges/solve-me-first?isFullScreen=true)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/Solve_me_first.py)  |
@@ -67,5 +66,6 @@ Index |                                                 Title                   
 |7.     | [Insert Node at the Head of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem?isFullScreen=true)|  [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/insert_node_at_head.py) |
 |8.     | [Insert Node at a Specific Position of a Linked List](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/insert_node_at_pos.py)| [Python](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?isFullScreen=true) |
 |9.     | [Breaking Best and Worst Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/main/Problem%20Solving/breaking_records.py) |
+|10.    | [The Birthday Bar](https://www.hackerrank.com/challenges/the-birthday-bar)| [Python](https://github.com/shivendra90/HackerRank_Solutions/blob/e80a7f32b809d61b48fd95ef1a424191ef9628e9/Problem%20Solving/subarray_division.py)|
 
 **This readme will keep expanding. For all solutions, click on the HR logo.**
