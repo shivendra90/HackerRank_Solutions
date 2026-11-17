@@ -20,7 +20,7 @@ def birthday(s, d, m):
         if s == d:
             count += 1
 
-    return sums
+    return count
 
 
 arr1 = [1,2,1,3,2]
