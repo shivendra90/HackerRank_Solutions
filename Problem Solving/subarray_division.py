@@ -1,3 +1,21 @@
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
+#
+# Complete the 'birthday' function below.
+#
+# The function is expected to return an INTEGER.
+# The function accepts following parameters:
+#  1. INTEGER_ARRAY s
+#  2. INTEGER d
+#  3. INTEGER m
+#
+
 def birthday(s, d, m):
     """
     Returns the greatest sum of the array.
@@ -20,15 +38,24 @@ def birthday(s, d, m):
         if s == d:
             count += 1
 
-    return sums
+    return count
 
 
-arr1 = [1,2,1,3,2]
-d, m = 3, 2
-print(birthday(arr1, d, m))
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
-arr2 = [1,1,1,1,1,1]
-print(birthday(arr2, d, m))
+    n = int(input().strip())
 
-arr3 = [2, 5, 1, 3, 4, 4, 3, 5, 1, 1, 2, 1, 4, 1, 3, 3, 4, 2, 1]
-print(birthday(arr3, 18, 7))
+    s = list(map(int, input().rstrip().split()))
+
+    first_multiple_input = input().rstrip().split()
+
+    d = int(first_multiple_input[0])
+
+    m = int(first_multiple_input[1])
+
+    result = birthday(s, d, m)
+
+    fptr.write(str(result) + '\n')
+
+    fptr.close()
